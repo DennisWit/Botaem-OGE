@@ -58,6 +58,7 @@ ol{
   
   .active, .exercise:hover {
     background-color: #2c989e;
+    transition: all 0.3s;
   }
   
   .panel {
@@ -92,6 +93,7 @@ ol{
  .exercise_text_h1{
     text-align: center;
     font-size: 25px;
+    transition: all 0.3s;
  }
 
  @media(max-width: 1200px){
